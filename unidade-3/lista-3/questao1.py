@@ -20,6 +20,4 @@ elif op == 1:
     multi = num_a * num_b
     print("{} * {} = {}".format(num_a, num_b, multi))
 else: 
-    print("Operação inválida. Tente novamente.")
-
-    
+    print("Operação inválida. Tente novamente.")    
